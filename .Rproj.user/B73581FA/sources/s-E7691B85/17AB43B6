@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536376909872.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1363652698",
+    "id" : "17AB43B6",
+    "lastKnownWriteTime" : 1432014964,
+    "last_content_update" : 1432014964,
+    "path" : "C:/2018_working/git_repos/learn_shiny_app/code/01-template.R",
+    "project_path" : "code/01-template.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
